@@ -21,11 +21,11 @@ To prepare the data for analysis, I performed data cleaning and transformation u
   - Added new custom column ‘Average Salary’ using DAX for better analysis
 
 # The objective of the analysis was to answer the following questions:
-What percentage of survey takers were males and females?
-Which job title has the highest average salary?
-Which is the most favorite programming langauge based on the job title? 
-How difficult was it to break into Data?
-What is the rating of data professionals based on salary and Work Life balance? 
+- What percentage of survey takers were males and females?
+- Which job title has the highest average salary?
+- Which is the most favorite programming langauge based on the job title? 
+- How difficult was it to break into Data?
+- What is the rating of data professionals based on salary and Work Life balance? 
 
 # Analysis Results:
 
