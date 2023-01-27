@@ -29,7 +29,7 @@ To prepare the data for analysis, I performed data cleaning and transformation u
 
 # Analysis Results:
 
-What percentage of survey takers were males and females?
+1. What percentage of survey takers were males and females?
 Out of the 630 data professionals, 468(74.29%) were males and 162(25.71%) were females. The average age of the survey takers was as 30.
 
 Which job title has the highest average salary?
