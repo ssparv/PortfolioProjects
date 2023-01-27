@@ -29,26 +29,21 @@ To prepare the data for analysis, I performed data cleaning and transformation u
 
 # Analysis Results:
 
-1. What percentage of survey takers were males and females?
-Out of the 630 data professionals, 468(74.29%) were males and 162(25.71%) were females. The average age of the survey takers was as 30.
+- Out of the 630 data professionals, 468(74.29%) were males and 162(25.71%) were females. The average age of the survey takers was as 30.
 
-Which job title has the highest average salary?
-The overall trend shows that Data Scientist had the highest average salary of 94k followed by data Engineers and data Architects in most 
+- The overall trend shows that Data Scientist had the highest average salary of 94k followed by data Engineers and data Architects in most 
 countries like India,United Kingdom , United States and in other countries. It was found that students and the people looking for jobs have the l
 owest average salary of 27k. Since I currently reside in Canada I did further analysis of the data professionals in Canada and it has shown that other 
 data professionals had a highest average salary of 120k followed by Data Engineers and Data Architects and the average salary of Data scientists in 
 Canada are 96k which is even higher than the average salary of data scientist across different countries.
 
-Which is the most favorite programming langauge based on the job title? 
-Python was the most favorite programming language for all data professionals followed by R and other programming langauges. Data analysts and data
+- Python was the most favorite programming language for all data professionals followed by R and other programming langauges. Data analysts and data
 engineers had the highest preference for Python.
 
-How difficult was it to break into Data?
-42.7% of the survey takers considered breaking into data as neither easy nor difficult while 24.7% considered it difficut and 21.2% percentage considered 
+- 42.7% of the survey takers considered breaking into data as neither easy nor difficult while 24.7% considered it difficut and 21.2% percentage considered 
 it easy.
 
-What is the rating of data professionals based on salary and Work Life balance? 
-The survey has shown that data proffessionals around the world are not very satisfied with their salaries, giving a rating of 4.27 out of 10.
+- The survey has shown that data proffessionals around the world are not very satisfied with their salaries, giving a rating of 4.27 out of 10.
 They were slightly more satisfied with their work-life balance, giving a rating of 5.74. Further analysis showed that United Sales had the 
 highest ratings for both salary (5 out of 10) and work-life balance (6.38 out of 10). Data professionals in India had the lowest ratings, with 
 3.51 out of 10 for salary and 4.79 out of 10 for work-life balance.
