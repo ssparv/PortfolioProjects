@@ -1,4 +1,4 @@
-DATA PROFESSIONAL SURVEY BREAKDOWN
+# DATA PROFESSIONAL SURVEY BREAKDOWN
 
 ![image](https://user-images.githubusercontent.com/82135370/211703967-b95fff83-b8a5-4288-a388-58058be44763.png)
 
@@ -6,13 +6,13 @@ As a Business Analyst to help aspiring data professionals to understand the tren
 dashboard is created in Power Bi using the "Data Professional Survey " dataset. This dataset was collected by performing a survey among 630 data 
 professionals from different industries around the world, and was made available by the Alex The Analyst Youtube channel.
 
-Data Attributes:
+# Data Attributes:
 Unique ID , Email, Date Taken, Time Taken, Browser, OS, City, Country, Time Spent,Which title best fits your current role?, Did you switch careers into 
 data?,Currently Yearly salary?, What industry do you work in?, Favorite Programming language, How happy are you in your current position(salary,work life
 balance,coworkers,management,learning new things,), How difficult was it for you to break into data?, If you were looking for a new job today, what would
 be the most imp thing to you? male/Female?, Which country do you live in?, Highest level of education?, Ethnicity
 
-Data Preperation and Data Transformation:
+# Data Preperation and Data Transformation:
 To prepare the data for analysis, I performed data cleaning and transformation using Power Query in Power BI. This included:
   - Removed unwanted columns which were empty
   - Split certain column values by using delimitter and non digits for better analysis
@@ -20,14 +20,14 @@ To prepare the data for analysis, I performed data cleaning and transformation u
   - Changed datatype to perform aggregate functions
   - Added new custom column ‘Average Salary’ using DAX for better analysis
 
-The objective of the analysis was to answer the following questions:
+# The objective of the analysis was to answer the following questions:
 What percentage of survey takers were males and females?
 Which job title has the highest average salary?
 Which is the most favorite programming langauge based on the job title? 
 How difficult was it to break into Data?
 What is the rating of data professionals based on salary and Work Life balance? 
 
-Analysis Results:
+# Analysis Results:
 
 What percentage of survey takers were males and females?
 Out of the 630 data professionals, 468(74.29%) were males and 162(25.71%) were females. The average age of the survey takers was as 30.
