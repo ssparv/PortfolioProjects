@@ -12,7 +12,7 @@ data?,Currently Yearly salary?, What industry do you work in?, Favorite Programm
 balance,coworkers,management,learning new things,), How difficult was it for you to break into data?, If you were looking for a new job today, what would
 be the most imp thing to you? male/Female?, Which country do you live in?, Highest level of education?, Ethnicity
 
-# Data Preperation and Data Transformation:
+# Data Preparation and Data Transformation:
 To prepare the data for analysis, I performed data cleaning and transformation using Power Query in Power BI. This included:
   - Removed unwanted columns which were empty
   - Split certain column values by using delimitter and non digits for better analysis
