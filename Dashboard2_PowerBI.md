@@ -13,7 +13,7 @@ To get insights about resort hotel during the summer period(July - August) of 20
 
 Booking ID, Hotel, Booking Date, Arrival Date, Lead Time, Nights, Guests, Distribution Channel, Customer Type, Country, Deposit Type, Avg Daily Rate, Status, Status Update, Cancelled (0/1), Revenue, Revenue Loss
 
-# Data Preperation and Data Transformation:
+# Data Preparation and Data Transformation:
 
 To prepare the data for analysis, performed data cleaning in Power Query and use DAX expressions to create new columns. It aslo included:
   - Removed unwanted columns which were empty
